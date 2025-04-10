@@ -1,0 +1,19 @@
+@import font-family: "Swanky and Moo Moo", cursive;
+
+
+body {
+    font-family: "Swanky and Moo Moo", cursive;
+    background-image: url('IMG/IMG_LOGIN.png');
+    text-align: center;
+}
+
+header {
+    font-size: 48px;
+
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    
+}
