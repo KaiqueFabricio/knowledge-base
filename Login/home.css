@@ -3,7 +3,7 @@
 
 body {
     font-family: "Swanky and Moo Moo", cursive;
-    background-image: url('IMG/IMG_LOGIN.png');
+    background-image: url('../IMG/IMG_LOGIN.png');
     text-align: center;
 }
 
@@ -15,5 +15,6 @@ header {
 .input {
     display: flex;
     justify-content: center;
-    
+    align-items: center;
+    background-image: url('../IMG/paper.png');
 }
